@@ -1,7 +1,6 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gbwx;Building+PyForge;Learning+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gbwx;Building+PyForge;Software+Engineering+Enthusiast" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=GbwxS3&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
@@ -14,12 +13,21 @@
 I'm Gbwx, a developer from Brazil interested in software engineering, automation and open source.
 
 - 🚀 Building PyForge
-- 🐍 Learning Python
+- 🐍 Passionate about Python
+- 🎮 Creating scripts and projects with Lua
 - 💻 Exploring software development
 - 💚 Passionate about open source
 - 🧠 Interested in advanced technology and intelligent systems
 
-## 🛠️ Technologies
+## 🐍 My Main Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,lua&theme=dark" />
+
+</div>
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -41,7 +49,7 @@ A tool designed to simplify the process of turning Python projects into executab
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GbwxS3&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GbwxS3&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbwxS3&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=GbwxS3&hide_border=true&theme=tokyonight" />
 
