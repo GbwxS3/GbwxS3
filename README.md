@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Coder+Of+Anything&animation=rainbow&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&height=60&font=code)](https://github.com/readme-SVG/readme-SVG-typing-generator)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredeak+one&weight=900&size=40&letterSpacing=&duration=1000&pause=1000&delay=1000&color=3A63FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Coder+Of+Anything" alt="Typing SVG" /></a>
