@@ -1,1 +1,1 @@
-https://readme-typing-svg.demolab.com/demo/?font=Fredeak+one&size=21&letterSpacing=&duration=800&delay=0&color=000000AC&center=true&vCenter=true&multiline=true&random=true&lines=Hello%2C+S3
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredeak+one&size=21&letterSpacing=&duration=800&pause=1000&delay=0&color=000000AC&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello%2C+S3)](https://git.io/typing-svg)
